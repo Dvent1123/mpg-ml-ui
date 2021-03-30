@@ -9,11 +9,11 @@ After filling out all the fields than the user can submit the request using the 
 
 ## Development
 Clone this repo and cd into the project directory, install dependencies by running:
-npm i
+`<npm i>`
 
 Start the project on port 3000 by using:
 `<npm start>`
 
 Build the project using
-npm build
+`<npm build>`
 
