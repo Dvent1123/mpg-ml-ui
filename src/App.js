@@ -248,7 +248,7 @@ function App() {
                 <MenuItem value={82}>1982</MenuItem>
               </Select>
               <Button type="submit" variant="contained" color="primary">
-                Primary
+                Submit
               </Button>
               </form>
             </Box>
