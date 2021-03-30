@@ -12,7 +12,7 @@ Clone this repo and cd into the project directory, install dependencies by runni
 npm i
 
 Start the project on port 3000 by using:
-<npm start>
+`<npm start>`
 
 Build the project using
 npm build
